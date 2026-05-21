@@ -248,6 +248,13 @@ typings/
 # Visual Studio 6 auto-generated workspace file (contains which files were open etc.)
 *.vbw
 
+# Data files
+*.csv
+*.xls
+*.xlsx
+*.xlsm
+*.xlsb
+
 # Visual Studio LightSwitch build output
 **/*.HTMLClient/GeneratedArtifacts
 **/*.DesktopClient/GeneratedArtifacts
